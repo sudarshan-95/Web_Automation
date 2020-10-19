@@ -1,0 +1,13 @@
+{
+
+  "URL": "https://www.sparkplug.work",
+  "GURL" : "https://www.gtmetrix.com/",
+  "LURL" : "https://www.drlinkcheck.com/",
+  "PURL":"https://tools.pingdom.com/",
+  "WURL":"https://www.webpagetest.org/",
+  "OURL":"https://developers.google.com/speed/pagespeed/insights/",
+  "service":["Websites","Custom Applications","Front-end Development","QA Services",
+    "Hybrid Apps Development","Support & Maintenance"]
+
+
+}

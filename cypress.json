@@ -1,0 +1,7 @@
+{
+    "video" : true,
+    "screenshotsFolder": "cypress/videos",
+    "defaultCommandTimeout":8000,
+    "chromeWebSecurity": false
+
+}
